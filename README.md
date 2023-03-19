@@ -1,5 +1,6 @@
 ## :pizza: FoodExplorer - Front-end
 > Food explorer é uma aplicação que simula o site de restaurante, ou seja um cliente pode fazer pedidos, e administrador gerencia esses pedidos.
+
 ![Capa](https://i.imgur.com/5SJvIpb.png)
 
 ### :computer: Sobre
